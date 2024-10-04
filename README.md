@@ -1,1 +1,3 @@
-# Discrete-Mathematics-I
+# Discrete Mathematics I
+-**Name:** Mikael Quinto
+-**X**:
